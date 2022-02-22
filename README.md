@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://github.com/Callank21/run-buddy.git
+https://callank21.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Callan Keesling
